@@ -1,0 +1,6 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.9",
+        "paquettg/php-html-parser": "^3.0"
+    }
+}
